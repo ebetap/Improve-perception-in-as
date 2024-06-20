@@ -13,7 +13,7 @@ Ya, persepsi yang berbeda dapat menyebabkan kesalahpahaman dan konflik dalam kom
 
 Dengan memperhatikan faktor-faktor ini, kita dapat mengurangi kemungkinan terjadinya kesalahpahaman dan meningkatkan efektivitas komunikasi.
 
-### bisakah kita implementasikan untuk menyempurnakan perception in AS (Artificial-Spiritual)?
+### Bisakah kita implementasikan untuk menyempurnakan perception in AS (Artificial-Spiritual)?
 
 Mengimplementasikan mekanisme untuk menyempurnakan persepsi dalam AI adalah tantangan yang kompleks tetapi sangat penting untuk meningkatkan interaksi manusia-mesin. Berikut beberapa pendekatan yang dapat digunakan untuk mencapai hal ini:
 
