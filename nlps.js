@@ -398,32 +398,4 @@ class NaturalLanguagePerceptionSpiritual {
     }
 }
 
-// Example usage
-(async () => {
-    const nlps = new NaturalLanguagePerceptionSpiritual('user123');
-    
-    // Processing text input
-    const textAnalysis = await nlps.processUserInput('Hello, how are you?', 'text');
-    console.log('Text Analysis:', textAnalysis);
-
-    // Adding user feedback
-    nlps.addUserFeedback({ message: 'Great response!', rating: 5 });
-
-    // Analyzing user feedback
-    const feedbackAnalysis = nlps.getFeedbackAnalysis();
-    console.log('Feedback Analysis:', feedbackAnalysis);
-
-    // Retrieving user profile
-    const userProfile = nlps.getUserProfile();
-    console.log('User Profile:', userProfile);
-
-    // Getting response explanation
-    const responseExplanation = nlps.getResponseExplanation('positive');
-    console.log('Response Explanation:', responseExplanation);
-
-    // Applying bias mitigation
-    const biasMitigatedData = nlps.applyBiasMitigation();
-    console.log('Bias Mitigated Data:', biasMitigatedData);
-})();
-
 export default NaturalLanguagePerceptionSpiritual;
